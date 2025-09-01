@@ -1,17 +1,24 @@
 # Turing Market
 
-## For the Circle Hackathon with CCTP V2 (Build a Multichain USDC Payment system)
-
-During the Circle Hackathon with CCTP V2, we built a multichain USDC payment system. Which support our users that can deposit token cross chain from other chain into AVAX on the  TuringMarket Lite application(https://cctp-dev-lite.turingmarket.cc/)
-
-| ![cctp-1.png](./assets/cctp/1.png) | ![cctp-2.png](./assets/cctp/2.png) | ![cctp-3.png](./assets/cctp/3.png) | ![cctp-4.png](./assets/cctp/4.png) |
-|----------------------------------|----------------------------------|----------------------------------|----------------------------------|
-
 ## Introduction
 
 Turing M is an AI collective data-driven event derivative financial ecosystem. Built on Web3 technology, it establishes a decentralized prediction market platform focusing on political/sports/entertainment multi-domain event prediction trading, breaking through traditional financial market limitations.
 
+
+## For the Circle Hackathon with CCTP V2 (Build a Multichain USDC Payment system)
+
+During the Circle Hackathon with CCTP V2, we built a multichain USDC payment system. Which support our users that can deposit token cross chain from other chain into AVAX on the  TuringMarket Lite application(https://cctp-dev-lite.turingmarket.cc/)
+
+## Demo for CCTP V2
+
+* Demo Link: https://cctp-dev-lite.turingmarket.cc/
+* Demo Video: https://youtu.be/KhIInGX5Pa0
+
+| ![cctp-1.png](./assets/cctp/1.png) | ![cctp-2.png](./assets/cctp/2.png) | ![cctp-3.png](./assets/cctp/3.png) | ![cctp-4.png](./assets/cctp/4.png) |
+|----------------------------------|----------------------------------|----------------------------------|----------------------------------|
+
 ## Links
+
 * Website: https://TuringM.IO/
 * White Paper && Docs: https://docs-zh.turingm.io/
 * Insights: https://insights.turingmarket.cc/
