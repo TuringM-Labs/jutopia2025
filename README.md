@@ -4,9 +4,8 @@
 
 During the Circle Hackathon with CCTP V2, we built a multichain USDC payment system. Which support our users that can deposit token cross chain from other chain into AVAX on the  TuringMarket Lite application(https://cctp-dev-lite.turingmarket.cc/)
 
-![cctp-1.png](./assets/cctp/1.png)
-
-![cctp-2.png](./assets/cctp/2.png)
+| ![cctp-1.png](./assets/cctp/1.png) | ![cctp-2.png](./assets/cctp/2.png) | ![cctp-3.png](./assets/cctp/3.png) | ![cctp-4.png](./assets/cctp/4.png) |
+|----------------------------------|----------------------------------|----------------------------------|----------------------------------|
 
 ## Introduction
 
