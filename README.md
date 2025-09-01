@@ -7,7 +7,7 @@ Turing M is an AI collective data-driven event derivative financial ecosystem. B
 
 ## For the Circle Hackathon with CCTP V2 (Build a Multichain USDC Payment system)
 
-During the Circle Hackathon with CCTP V2, we built a multichain USDC payment system. Which support our users that can deposit token cross chain from other chain into AVAX on the  TuringMarket Lite application(https://cctp-dev-lite.turingmarket.cc/)
+During the Circle Hackathon with CCTP V2, we built a multichain USDC payment system. Which support our users that can deposit token cross chain from other chain into AVAX on the  TuringMarket Lite application
 
 ## Demo for CCTP V2
 
