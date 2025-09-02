@@ -204,4 +204,3 @@ Base fee rate (`baseFeeRate`) is written into order structure, corresponding to 
 - **George** CPO 10+ years internet financial product leadership experience
 - **Adam** Chief Development Engineer 5+ years blockchain development, 10+ years full-stack experience
 - **Rushen** Project Director & Agile Coach Years of project management experience
-- **Reyo** CMO Chief Community Operations Manager
