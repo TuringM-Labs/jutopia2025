@@ -8,6 +8,7 @@ Turing M is an AI collective data-driven event derivative financial ecosystem. B
 
 * Dapp: https://somnia-test.turingmarket.cc/
 * Contract deployment: 
+  * TuringMarketApp: https://shannon-explorer.somnia.network/address/0x10d1681da8206A676a9B343fC5Bc1A8AB1733F64?tab=index
 * Product Demo Video: https://youtu.be/ni6MiigAUMg
 * Pitch Video: https://x.com/Turingmarket/status/1930945177381982507
 * Pitch Deck: https://github.com/TuringM-Labs/jutopia2025/blob/main/TuringM-v3.4.pdf
