@@ -4,6 +4,15 @@
 
 Turing M is an AI collective data-driven event derivative financial ecosystem. Built on Web3 technology, it establishes a decentralized prediction market platform focusing on political/sports/entertainment multi-domain event prediction trading, breaking through traditional financial market limitations.
 
+## Updates 0919: deploy to Somnia testnet
+
+* Dapp: https://somnia-test.turingmarket.cc/
+* Contract deployment: 
+* Product Demo Video: https://youtu.be/ni6MiigAUMg
+* Pitch Video: https://x.com/Turingmarket/status/1930945177381982507
+* Pitch Deck: https://github.com/TuringM-Labs/jutopia2025/blob/main/TuringM-v3.4.pdf
+* X: https://x.com/turingmarket
+
 ## Links
 * Website: https://TuringM.IO/
 * White Paper && Docs:
@@ -12,22 +21,6 @@ Turing M is an AI collective data-driven event derivative financial ecosystem. B
 * Insights: https://insights.turingmarket.cc/
 * X: https://twitter.com/turingmarket
 * Full Smart Contract Audit: https://github.com/TuringM-Labs/TuringM-EIP2535
-* testnet demo:
-  * BSC testnet
-    * DApp: https://bnb-test.turingmarket.cc/
-    * Contract: https://testnet.bscscan.com/address/0x8be123F0F0943dc8d08f91600b60Dc5a2F8C7e84
-  * AVAX testnet
-    * Dapp: https://avax-test.turingmarket.cc/
-    * Contract: https://subnets-test.avax.network/c-chain/address/0x10d1681da8206A676a9B343fC5Bc1A8AB1733F64
-  * 0G testnet
-    * DApp: https://0g-test.turingmarket.cc/
-    * Contract: https://chainscan-galileo.0g.ai/address/0x10d1681da8206a676a9b343fc5bc1a8ab1733f64
-* Product Demo Video: https://youtu.be/ni6MiigAUMg
-* Pitch Video: https://x.com/Turingmarket/status/1930945177381982507
-* Pitch Deck: https://github.com/TuringM-Labs/jutopia2025/blob/main/TuringM-v3.4.pdf
-* X: https://x.com/turingmarket
-* Smart Contract code: https://github.com/TuringM-Labs/jutopia2025/
-
 
 ![1.png](./assets/1.png)
 
