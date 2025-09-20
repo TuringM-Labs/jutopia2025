@@ -4,12 +4,16 @@
 
 Turing M is an AI collective data-driven event derivative financial ecosystem. Built on Web3 technology, it establishes a decentralized prediction market platform focusing on political/sports/entertainment multi-domain event prediction trading, breaking through traditional financial market limitations.
 
-## Updates 0919: deploy to Somnia testnet
+## Updates 0926: deploy to Kairos testnet
 
-* Dapp: https://somnia-test.turingmarket.cc/
+* Kairos Version:
+  * Mobile DApp: https://kaia-test-lite.turingmarket.cc
+  * LIFF: https://line.me/R/app/2008136886-Nke5LwLP
 * Contract deployment: 
   * TuringMarketApp: https://shannon-explorer.somnia.network/address/0x10d1681da8206A676a9B343fC5Bc1A8AB1733F64?tab=index
-* Product Demo Video: https://youtu.be/ni6MiigAUMg
+* Desktop:
+  * Dapp: https://turingmarket.cc/
+  * Demo Video: https://youtu.be/ni6MiigAUMg
 * Pitch Video: https://x.com/Turingmarket/status/1930945177381982507
 * Pitch Deck: https://github.com/TuringM-Labs/jutopia2025/blob/main/TuringM-v3.4.pdf
 * X: https://x.com/turingmarket
