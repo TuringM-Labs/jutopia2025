@@ -11,13 +11,32 @@ Turing M is an AI collective data-driven event derivative financial ecosystem. B
   * Mobile DApp: https://kaia-test-lite.turingmarket.cc
   * LIFF: https://line.me/R/app/2008136886-Nke5LwLP
 * Contract deployment: 
-  * TuringMarketApp: https://shannon-explorer.somnia.network/address/0x10d1681da8206A676a9B343fC5Bc1A8AB1733F64?tab=index
+  * TuringMarketApp: https://kairos.kaiascan.io/tx/0x94282f4694dcb7a22291dbf5ac0896955cab4bed1ea890b251cd220679775b5c?tabId=internalTx&page=1
 * Desktop version:
   * Dapp: https://turingmarket.cc/
   * Demo Video: https://youtu.be/ni6MiigAUMg
 * Pitch Video: https://x.com/Turingmarket/status/1930945177381982507
 * Pitch Deck: https://github.com/TuringM-Labs/jutopia2025/blob/main/TuringM-v3.4.pdf
 * X: https://x.com/turingmarket
+
+## Features:
+
+1. Using kaia-native USDT to pay for conditional tokens used to predict events will significantly increase kaia-native USDT usage.
+2. Complete user experience (smart contracts + dApps).
+3. A series of hacker growth and viral marketing features will be launched intensively to achieve massive user growth.
+
+## How we address the pain points of current crypto products:
+
+1. Pain Points of Current Crypto Products
+* Pure coin issuance, FOMO (Fear of Momentum) – Too many products are actually Ponzi schemes.
+* Complex features and incomprehensible terminology: Various technical terms are difficult for users to understand and understand, making Web3 difficult to gain public attention.
+2. How TuringMarket Addresses These Challenges
+
+a). TuringMarket utilizes a COB model, with off-chain matching and on-chain transactions. This significantly improves user transaction efficiency while ensuring the security and reliability of user assets.
+
+b). On mobile, it employs a Tinder-like swipe-left-right interface, transforming boring transactions into easily understandable yes/no responses, significantly lowering the barrier to entry for users.
+
+c). By introducing various hacker growth and viral marketing modules, The application of various crazy viral extension mechanisms of Web2 to Web3 will soon attract a huge influx of Web2 users to the platform.
 
 ## Links
 * Website: https://TuringM.IO/
