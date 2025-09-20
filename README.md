@@ -7,11 +7,12 @@ Turing M is an AI collective data-driven event derivative financial ecosystem. B
 ## Updates 0926: deploy to Kairos testnet
 
 * Kairos Version:
+  * Demo Video: https://youtu.be/HXbBNglQJbI
   * Mobile DApp: https://kaia-test-lite.turingmarket.cc
   * LIFF: https://line.me/R/app/2008136886-Nke5LwLP
 * Contract deployment: 
   * TuringMarketApp: https://shannon-explorer.somnia.network/address/0x10d1681da8206A676a9B343fC5Bc1A8AB1733F64?tab=index
-* Desktop:
+* Desktop version:
   * Dapp: https://turingmarket.cc/
   * Demo Video: https://youtu.be/ni6MiigAUMg
 * Pitch Video: https://x.com/Turingmarket/status/1930945177381982507
